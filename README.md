@@ -1,5 +1,5 @@
 # My plans
-Install Arch Linux \n
+Install Arch Linux　　
 create windows vm using pci passthrough
 https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF
 setup ctf environment in docker
